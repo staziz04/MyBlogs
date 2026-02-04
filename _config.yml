@@ -1,2 +1,2 @@
-theme: pages-themes/architect
-# jekyll-theme-minimal
+remote_theme: pages-themes/architect
+# theme: jekyll-theme-minimal
