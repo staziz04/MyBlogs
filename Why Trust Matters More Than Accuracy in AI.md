@@ -34,6 +34,9 @@ At a high level, the assistant follows a simple yet deliberate flow. Analyst que
 
 Trustworthiness is assessed using multiple complementary signals. Semantic similarity measures how closely the generated answer aligns with its supporting context, while entailment-based verification evaluates the logical consistency between the answer and the evidence. In addition, evidence coverage indicators highlight whether conclusions are based on strong, partial, or weak support. Together, these signals help surface not only what the system believes to be correct, but also how confident it is in those conclusions, thereby allowing SOC analysts to make informed and responsible decisions.
 
+<img width="1024" height="575" alt="Diagram" src="https://github.com/user-attachments/assets/58a8596f-e426-49ad-8016-096dd2dd6e51" />
+
+
 ## What the Experiments Revealed
 
 Evaluating the trust-aware SOC assistant across different cybersecurity data sources revealed important insights into how data characteristics and verification strategies influence system reliability. The behavior of the system varied noticeably depending on the nature of the underlying knowledge source, reinforcing the idea that trustworthiness is not solely a model property, but also a function of data structure and context.
